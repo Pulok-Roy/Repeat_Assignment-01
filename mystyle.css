@@ -1,0 +1,136 @@
+    body {
+        text-align: center;
+        margin: 0;
+        font-family: 'Roboto', sans-serif;
+    }
+
+    p {
+        font-size: 17px;
+    }
+
+    .top-banner {
+        color: white;
+        padding-top: 90px;
+        padding-left: 60px;
+        padding-right: 60px;
+        font-size: 29px;
+
+    }
+
+
+
+    .header {
+        background-image: url(images/donation13.jpg );
+        background-repeat: no-repeat;
+        background-size: 100%;
+        width: 100%;
+        height: 660px;
+        padding-top: 45px;
+
+    }
+
+    .top-button {
+        margin: 30px;
+        color: white;
+        background-color: #fc2828;
+        padding: 20px 50px;
+        border: 0;
+        border-radius: 5px;
+        font-size: 18px;
+
+    }
+
+    .middle-banner {
+        padding: 90px 140px;
+        text-align: center;
+        font-size: 25px;
+    }
+
+    .tk-button {
+        background-color: rgb(243, 232, 232);
+        padding: 40px 40px;
+        border-radius: 5px;
+        border: 2px solid white;
+        font-size: 15px;
+        font-weight: 700;
+
+    }
+
+    #tkr-btn {
+        background-color: #f1c6c6;
+        border: 2px solid red;
+    }
+
+    .donate-plan {
+        padding: 10px 140px;
+
+    }
+
+    .plan {
+        display: flex;
+        padding: 20px 60px;
+
+    }
+
+    .plan-one {
+        padding: 10px;
+        border: 8px solid white;
+        border-radius: 15px;
+        background-color: #b5dee2;
+    }
+
+    .plan-Two {
+        padding: 10px;
+        border: 8px solid white;
+        border-radius: 15px;
+        background-color: #e6b0b0;
+    }
+
+    .plan-Three {
+        padding: 10px;
+        border: 8px solid white;
+        border-radius: 15px;
+        background-color: #e7d5d5;
+    }
+
+
+
+    .updates {
+        padding: 70px 180px;
+    }
+
+    .mail {
+        margin: 20px 110px;
+        padding: 60px 150px;
+        background-color: #32404e;
+
+    }
+
+    .mail-btn {
+
+        font-size: 18px;
+        color: #f4f6f7;
+        width: 25%;
+        height: 41px;
+        background-color: #f72020;
+        border: 0;
+    }
+
+    input {
+        width: 70%;
+        height: 35px;
+        margin: 0;
+    }
+
+    footer {
+        padding: 20px;
+        background-color: #0B0D17;
+    }
+
+    .humble {
+        color: #FF5959;
+    }
+
+    .gone {
+        color: aliceblue;
+    }
